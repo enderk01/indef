@@ -1,0 +1,24 @@
+{
+  "model": {
+    "path": "C:\\ia\\Qwen2.5-1.5B-Instruct-uncensored.Q2_K.gguf",
+    "n_gpu_layers": -1,
+    "n_ctx": 512,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "max_tokens": 256
+  },
+  "ui": {
+    "window_width": 800,
+    "window_height": 600,
+    "pet_size": 128,
+    "animation_speed": 0.5,
+    "window_always_on_top": true,
+    "fps": 60
+  },
+  "behavior": {
+    "idle_timeout": 30,
+    "movement_speed": 2,
+    "emotion_detection": true,
+    "auto_movement": true
+  }
+}
